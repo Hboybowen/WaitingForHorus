@@ -1,0 +1,26 @@
+{
+	"ulink":{
+		"null":0,
+		"CameraScript":0.0
+	},
+	"PlayerScript":{
+		"Vector3":0.0,
+		"Awake":0
+	},
+	"Addreloadimpulse":{
+		"addgunimpulse":0,
+		"public":0.0
+	},
+	"void":{
+		"foreach":0,
+		"float":0.0
+	},
+	"else if":{
+		"&&":0,
+		"bool":0.0
+	},
+	"Quaternion":{
+		"euler":"0",
+		"UnreliableRPC":0.0
+	}
+}
